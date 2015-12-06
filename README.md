@@ -46,7 +46,6 @@ in the chapters I already finished :wink:.
 | UseTactics: Tactic Library for Coq | :red_circle: |
 | UseAuto: Theory and Practice of Automation in Coq Proofs | :red_circle: |
 | PE: Partial Evaluation | :red_circle: |
-|----------------------|-----|
 
 
 
