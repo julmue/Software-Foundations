@@ -8,5 +8,6 @@ I try to cover all the exercises,
 so if you're stuck somewhere you can look for some inspirations 
 in the chapters I already finished :wink:.
 
-chapter | status
-Basics: Functional Programming in Coq | :eight_spoked_asterisk:
+|chapter | status |
+|--------|-------|
+| Basics: Functional Programming in Coq | :eight_spoked_asterisk: |
